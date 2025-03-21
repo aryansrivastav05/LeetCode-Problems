@@ -28,4 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
