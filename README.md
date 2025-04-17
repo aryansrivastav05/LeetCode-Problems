@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
