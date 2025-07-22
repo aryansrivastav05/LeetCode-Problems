@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0283-move-zeroes) |
@@ -68,9 +69,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -80,9 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
