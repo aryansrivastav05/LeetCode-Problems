@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0268-missing-number) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 <!---LeetCode Topics End-->
