@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0035-search-insert-position) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0268-missing-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
