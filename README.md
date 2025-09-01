@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2561-number-of-distinct-averages](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [2561-number-of-distinct-averages](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0268-missing-number) |
+| [2561-number-of-distinct-averages](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/0268-missing-number) |
+| [2561-number-of-distinct-averages](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/aryansrivastav05/LeetCode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
